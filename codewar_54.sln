@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "codewar_54", "codewar_54.pyproj", "{9CDE6F6F-552D-48A7-9077-2CD015AA75CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDE6F6F-552D-48A7-9077-2CD015AA75CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDE6F6F-552D-48A7-9077-2CD015AA75CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF7DF9D0-9AE9-4178-9E58-C605186A4AF0}
+	EndGlobalSection
+EndGlobal
